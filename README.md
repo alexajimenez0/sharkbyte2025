@@ -17,7 +17,7 @@ Transfer plans with articulation agreements to partner institutions
 Professional requirements including licensing exams (FE, PE), certifications, and internships
 Alternative pathways so students can choose the route that fits their goals
 
-Why It Matters: We're not just showing students where to go—we're empowering them to make informed decisions with program comparisons, financial planning tools, and personalized recommendations. Every student deserves to see the full picture of their future, not just the first step.
+**Why It Matters:** We're not just showing students where to go—we're empowering them to make informed decisions with program comparisons, financial planning tools, and personalized recommendations. Every student deserves to see the full picture of their future, not just the first step.
 Next Wave: From career aspiration to professional achievement, we've charted the course.
 
 
