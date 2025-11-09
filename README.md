@@ -7,6 +7,8 @@
 
 **[Ahanaf Akif](https://www.linkedin.com/in/ahanafaakif/)**, **[Alexa Jimenez](https://www.linkedin.com/in/alexa1jimenez/)**, **[Joaquin Porter](https://www.linkedin.com/in/jporter924/)**, **[Dylan Sedeno](https://www.linkedin.com/in/dsr-iot/)**
 
+## Links
+
 [Next Wave](http://nextwave-sharkbyte.s3-website-us-east-1.amazonaws.com/), [Presentation](https://docs.google.com/presentation/d/1IwVg4L6BqqAa8QPMN2-bQCHtpTM91NZISJ3A9I1-mys/edit?usp=sharing), [Video](https://youtu.be/6SV7lCTP9X0)
 
 ## Next Wave: Your AI-Powered Career Compass
