@@ -2,7 +2,7 @@
 
 ## The Team Behind Next Wave
 
-**Ahanaf Akif**, **Alexa Jimenez**, **Jaoquine Porter**, **Dylan Sedeno**
+**Ahanaf Akif**, **Alexa Jimenez**, **Joaquin Porter**, **Dylan Sedeno**
 
 [Next Wave](http://nextwave-sharkbyte.s3-website-us-east-1.amazonaws.com/), [Presentation](https://docs.google.com/presentation/d/1IwVg4L6BqqAa8QPMN2-bQCHtpTM91NZISJ3A9I1-mys/edit?usp=sharing)
 
